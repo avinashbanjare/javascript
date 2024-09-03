@@ -43,3 +43,8 @@ console.log(final4);
  
 // console.log(final5);
 
+
+const paswword = " amitab bachhan "
+
+const pswdWithoutSpace = paswword.trim()
+console.log(pswdWithoutSpace);
