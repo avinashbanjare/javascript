@@ -1,50 +1,51 @@
-/* mATHEMATICAL OPERATION (+, -, *, /, %) */
+/* MATHMETICAL 0PRECTION   +, -, *, ,/ ,%  */
 
-// add
-const A = 30
-const B = 20 
-console.log (A+B)
+// ADD//
+const A = 50
+const B = 30
+console.log(A+B);
 
-// subSTRACT
-const C = 50
-const D = 30
-console.log (C-D)
+// SUBSTRACT //
+const C = 30
+const D = 20
+console.log(C-D);
 
-//MULTIPLY
-const E =450
-const F =2
-console.log (E*F)
+// MULTIPLY //
+const E = 450
+const F = 3
+console.log(E*F);
 
-// DIVIDE
-const G =300
-const H = 3
-console.log (G/H)
+// DIVIDE //
+const G = 375
+const H = 15
+console.log(G/H);
 
-// remider
+// REMIDER //
 const I = 301
 const J = 3
-console.log (I%J)
+console.log(I%J);
+
+//...................................................//
+
+/* COMPARISON OPERATION(<,>,===) */  // value assign is === //
 
 
-console.log("---------------------------------------");
+ const M = 90
+ const N = 80
+
+ const O = 54
+ const P = 35
+
+ const Q = 754
+ const R = 753
+
+ console.log(M<N);
+console.log(O>P);
+console.log(Q===R);
+console.log(M===N);
+console.log(O==P);
+console.log(P>O);
+console.log(M===N);
 
 
-/* Comparison operation (< ,  > , ===) */   // =   --> value assign,        ===   -->  
-const z = 70
-const x = 50
-
-const m = 50
-const n = 50
-
-console.log(z < x);
-console.log(C>D);
-console.log(C<D);
-
-console.log(m===n);
-
-console.log();
-
-
-
-
-
+ 

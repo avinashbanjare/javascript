@@ -50,3 +50,10 @@ const paswword = "avinash kumar "
 
 const pswdWithoutSpace = paswword.trim()
 console.log(pswdWithoutSpace);
+
+
+// string concatination
+const string1 = "raju"
+const string2 = "kumar"
+const age = 30
+console.log(string1 + " ka second name hai " +  string2 + ". uska age " + age + " hai" );
